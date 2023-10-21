@@ -1,0 +1,5 @@
+dotnet new console -n MyCertAuthClient
+
+cd MyCertAuthClient
+
+dotnet add package System.Net.Http
